@@ -17,6 +17,9 @@ python-dotenv = "*"
 psycopg2-binary = "*"
 undetected-chromedriver = "*"
 pypdf2 = "*"
+tiktoken = "*"
+langchain = "*"
+langchain-text-splitters = "*"
 
 [dev-packages]
 
